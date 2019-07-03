@@ -1,6 +1,6 @@
 # PhoneCommunication
 Akshdeep kaur. co7381118
-pardeep kaur
+pardeep kaur  C0737369
 Answer of question 1.
 the function to recieve message from watch is didRecieveMessage.
 below is the whole method cde for recieving message from watch
